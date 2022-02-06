@@ -1,4 +1,4 @@
-We create this sample because we need to test something
+We create this sample because we need to test something(React Native)
 
 For folks using component react native maybe confuse era of hooks
 
